@@ -1,27 +1,27 @@
 #STEPS IN creating my new apps 
 
-9068  npm install -g ember-cli
- 9069  cd Desktop/udemy
- 9070  ls
- 9071  ember new ember-quickstart
- 9072  cd ember-quickstart
- 9073  ls
- 9074  ember serve
- 9075  code . 
- 9076  ember serve
- 9077  ls
- 9078  ember-quickstart 
- 9079  ember generate route scientists
- 9080  ls
- 9081  ember generate component people-list
- 9082  ember generate route programmers
- 9083  generate component programmers
- 9084  ember generate components programmers 
- 9085  ember generate component programmers 
- 9086  ember build --env production
- 9087  ls
- 9088  cd dist
- 9089  ls
+* 9068  npm install -g ember-cli
+* 9069  cd Desktop/udemy
+* 9070  ls
+* 9071  ember new ember-quickstart
+* 9072  cd ember-quickstart
+* 9073  ls
+* 9074  ember serve
+* 9075  code . 
+* 9076  ember serve
+* 9077  ls
+* 9078  ember-quickstart 
+* 9079  ember generate route scientists
+* 9080  ls
+* 9081  ember generate component people-list
+* 9082  ember generate route programmers
+* 9083  generate component programmers
+* 9084  ember generate components programmers 
+* 9085  ember generate component programmers 
+* 9086  ember build --env production
+* 9087  ls
+* 9088  cd dist
+* 9089  ls
 
 
 # ember-quickstart
