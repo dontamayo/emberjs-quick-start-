@@ -1,0 +1,11 @@
+<h2>List of scientists</h2>
+
+<ul>
+    {{#each model as |scientists|}}
+    <li>{{scientists}}</li>
+    {{/each}}
+</ul>
+{{people-list title="List of Scientists" people=model  title='List of Programmers' programmers=program}}
+
+{{outlet}}
+ 
